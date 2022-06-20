@@ -1,0 +1,80 @@
+:root{
+		--bg-negro:#000;	
+}
+
+
+body{
+	background-color: hsla(359,45%,59%,1.00); 
+}
+
+
+
+header{
+	padding: 40px 0;
+	background-color:hsla(359,44%,73%,0.78);
+	
+}
+
+.nav-link{
+	color:#fff;
+	text-transform: uppercase;
+	
+}
+ 
+.nav-link:hover{
+	background-color: hsla(359,100%,90%,0.62);
+	color: #fff;
+}
+
+.img-fluid{
+	border: 2px solid #fff;
+	border-radius: 120px;
+	margin: 40px 50px;
+	left: 500px;
+}
+
+#hero .btn-light{
+	color:#000;
+	text-transform: uppercase;
+}
+
+#hero .btn-light:hover{
+	background-color: hsla(359,100%,90%,0.62);
+	color: #fff;
+	
+}
+
+.info-icon{
+	text-align: center;
+	padding: 30px 0px;
+}
+
+.info-icon i{
+	font-size: 50px;
+	color:hsla(359,100%,90%,0.62);
+}
+
+.info-icon p{
+	color: #fff;
+}
+
+
+footer{
+	background-color: hsla(359,44%,73%,0.78);
+	padding: 5px 0px;
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,86 @@
+:root{
+		--bg-negro:#000;	
+}
+
+
+body{
+	height: 100vh;
+	margin: 0px;
+	padding: 0px;
+}
+
+header{
+	color: #fff;
+	padding: 40px 0;
+	background-color:hsla(359,44%,73%,0.78);
+	
+}
+
+.nav-link{
+	color:#fff;
+	text-transform: uppercase;
+	
+}
+ 
+.nav-link:hover{
+	background-color: hsla(359,100%,90%,0.62);
+	color: #fff;
+}
+
+#hero{
+	background-size: cover;
+	background-color:hsla(359,100%,90%,0.62);
+	text-align: center;
+	padding: 50px 0px;
+}
+
+
+h3{
+	text-align: center;
+	font-size: 30px;
+	padding: 50px 100px;
+}
+
+#logotipos h3{
+	padding: 80px 0px;
+}
+
+
+#tarjetas{
+	padding: 80px 90px;
+}
+
+#tarjetas h3{
+	padding: 20px 0px;
+
+}
+
+#foto h4{
+	padding: 30px 0px;
+	font-size: 30px;
+	text-align: center;
+}
+
+#foto{
+	background-color:hsla(359,100%,90%,0.62); 
+}
+
+footer{
+	background-color: hsla(359,44%,73%,0.78);
+	padding: 5px 0px;
+	color: #fff;
+	text-align: center;
+	font-size: 12px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
